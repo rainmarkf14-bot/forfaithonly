@@ -32,7 +32,7 @@ const CONFIG = {
     "Yes mo na pooo",
     "What the heck?❤️",
     "So ayaw mo na sakin?🥹",
-    "pakyu pakyu pakyu 😝😤"
+    "pakyu pakyu pakyu ble bke😝😤"
   ],
 
   yesTitle:    "HAPPY 31ST MONTHSARY❤️😭",
