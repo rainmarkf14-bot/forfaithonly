@@ -26,18 +26,18 @@ const CONFIG = {
   // 6️⃣ NO-BUTTON MESSAGES — shown one by one each time she tries to tap NO
   noMessages: [
     "Are you sure? 🥺",
-    "Think again! 😭",
-    "Nope, you can't choose that 😭❤️",
-    "Nice try 😭",
-    "The button has escaped!",
-    "You know the correct answer 😌❤️",
-    "Just press YES already 🥹",
-    "I can do this all day 😤💕"
+    "Sinasadya mo ba? 😭",
+    "Hoyyy ansaamaaa 😭❤️",
+    "Ano naaaaaa😭",
+    "Yes mo na pooo",
+    "What the heck?❤️",
+    "So ayaw mo na sakin?🥹",
+    "pakyu pakyu pakyu 😝😤"
   ],
 
-  yesTitle:    "I KNEW IT! ❤️😭",
+  yesTitle:    "HAPPY 31ST MONTHSARY❤️😭",
   // 5️⃣ THE FINAL ROMANTIC MESSAGE
-  finalMessage: "I love you so much, and I'm really happy you're mine hope nagustuhan mo simple website na to whehe lagi mo lang tandaan love na love kita Happy Monthsary po❤️",
+  finalMessage: "I love you so much, and I'm really happy na sakin kapa din kahit na may mga ugali me na makukit, minsan naiinis sayo pasensya na ha, hope nagustuhan mo simple website na to whehe lagi mo lang tandaan love na love kita always may ginawa din ako kanta after mo nalang basahin to send ko sayo, sabihin mo sakin na love moko send ko sayo HAHAHA hindi nga lang ganon kaganda, mwaaa Iloveyouverymuch Happy Monthsary po❤️",
 
   sound: true                           // little chime when she taps YES
 };
